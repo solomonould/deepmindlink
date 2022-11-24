@@ -1,0 +1,1 @@
+{"StartTimeUtc":"2022-11-04T10:28:29.9834806Z","EndTimeUtc":"2022-11-04T10:30:08.8522858Z","Status":"Completed","Name":"Scan Metadata Folder","Key":"ScanMetadataFolder","Id":"90e0c1ad418b74a348597a81062f50c8"}
